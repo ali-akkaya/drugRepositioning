@@ -1,0 +1,797 @@
+condition,drugName,rating_count,average_rating,cui
+ADHD,Lisdexamfetamine,548,7.697080292,C1873633
+ADHD,Vyvanse,540,7.677777778,C1876807
+ADHD,Methylphenidate,513,7.382066277,C0025810
+ADHD,Amphetamine / dextroamphetamine,456,7.967105263,C0795571
+ADHD,Atomoxetine,285,5.438596491,C0076823
+ADHD,Strattera,277,5.433212996,C1176420
+ADHD,Concerta,257,7.13229572,C0939301
+ADHD,Adderall,227,8.224669604,C0290795
+ADHD,Guanfacine,156,5.737179487,C0079466
+ADHD,Adderall XR,139,8.26618705,C1170024
+ADHD,Dexmethylphenidate,120,7.441666667,C1169997
+ADHD,Intuniv,107,6.177570093,C2721782
+ADHD,Dextroamphetamine,94,8.712765957,C0011812
+ADHD,Ritalin,76,7.447368421,C0728759
+ADHD,Bupropion,72,7.5,C0085208
+ADHD,Daytrana,61,8.262295082,C1691676
+ADHD,Focalin XR,58,7.844827586,C1659527
+ADHD,Dexedrine,57,8.421052632,C0591355
+ADHD,Amphetamine,54,6.518518519,C0002658
+ADHD,Focalin,53,6.886792453,C1170283
+ADHD,Clonidine,36,8.25,C0009014
+ADHD,Metadate CD,34,7.117647059,C0939378
+ADHD,Methamphetamine,28,8.714285714,C0025611
+ADHD,Adzenys XR-ODT,21,5.952380952,C4084344
+ADHD,Evekeo,20,7.3,C3883382
+ADHD,Desoxyn,19,9.631578947,C0728809
+ADHD,Modafinil,17,8.823529412,C0066677
+ADHD,Kapvay,17,7.352941176,C2939730
+ADHD,Mydayis,15,4.533333333,C4490125
+ADHD,Quillivant XR,14,5.357142857,C3499671
+ADHD,Armodafinil,13,8.230769231,C1701455
+ADHD,Wellbutrin XL,11,8.909090909,C1330606
+ADHD,Methylin,11,8.181818182,C0876085
+ADHD,Ritalin LA,10,9.2,C1170586
+ADHD,Dyanavel XR,10,6.0,C4080995
+ADHD,Methylin ER,8,8.5,C0939379
+ADHD,Zenzedi,8,8.5,C3644601
+ADHD,Cylert,7,9.571428571,C0719594
+ADHD,Pemoline,7,9.571428571,C0030800
+ADHD,Nuvigil,7,8.285714286,C1871544
+ADHD,Omega-3 polyunsaturated fatty acids,6,8.166666667,C0015689
+ADHD,Aptensio XR,6,6.833333333,C4032853
+ADHD,Provigil,5,9.2,C0722882
+ADHD,Wellbutrin SR,4,8.0,C0724393
+ADHD,Wellbutrin,4,5.5,C0085934
+ADHD,Catapres,3,9.333333333,C0699881
+ADHD,Amantadine,3,8.666666667,C0002403
+ADHD,Desvenlafaxine,3,8.666666667,C1880288
+ADHD,Pristiq,2,8.0,C1871864
+ADHD,Ritalin-SR,2,5.5,C0723094
+Agitated State,Aripiprazole,24,6.583333333,C0299792
+Agitated State,Abilify,22,6.409090909,C1170019
+Alcohol Dependence,Acamprosate,143,8.867132867,C0284941
+Alcohol Dependence,Campral,122,9.008196721,C0592792
+Alcohol Dependence,Naltrexone,122,8.631147541,C0027360
+Alcohol Dependence,Disulfiram,61,8.672131148,C0012772
+Alcohol Dependence,Antabuse,49,9.0,C0591096
+Alcohol Dependence,Vivitrol,15,8.733333333,C1712071
+Alcohol Dependence,Revia,5,9.2,C0591842
+Alcohol Withdrawal,Chlordiazepoxide,89,9.483146067,C0008188
+Alcohol Withdrawal,Librium,80,9.55,C0013881
+Alcohol Withdrawal,Baclofen,54,9.037037037,C0004609
+Alcohol Withdrawal,Gabapentin,30,8.6,C0060926
+Alcohol Withdrawal,Diazepam,9,8.888888889,C0012010
+Alcohol Withdrawal,Valium,7,8.571428571,C0699187
+Alcohol Withdrawal,Oxazepam,3,8.666666667,C0029997
+Alcohol Withdrawal,Clonidine,3,6.666666667,C0009014
+Alcohol Withdrawal,Neurontin,2,9.5,C0678176
+Alcohol Withdrawal,Lioresal,2,8.5,C0699999
+Alcohol Withdrawal,Serax,2,8.5,C0702214
+Alzheimer's Disease,Donepezil,32,4.8125,C0527316
+Alzheimer's Disease,Aricept,18,5.5,C0527315
+Alzheimer's Disease,Memantine,17,4.235294118,C0025242
+Alzheimer's Disease,Rivastigmine,16,6.5625,C0649350
+Alzheimer's Disease,Exelon,12,6.666666667,C0730987
+Alzheimer's Disease,Namenda,10,4.0,C1330412
+Alzheimer's Disease,Galantamine,8,7.625,C0016967
+Alzheimer's Disease,Namenda XR,2,4.5,C1330412
+Anorexia,Cyproheptadine,85,8.847058824,C0010620
+Anorexia,Dronabinol,10,7.9,C0039663
+Anorexia,Marinol,7,8.428571429,C0728767
+Anorexia,Megestrol,7,8.0,C0025175
+Anorexia,Megace ES,2,5.5,C1649231
+Anxiety,Escitalopram,669,7.825112108,C1099456
+Anxiety,Alprazolam,560,8.826785714,C0002333
+Anxiety,Buspirone,538,6.32527881,C0006462
+Anxiety,Clonazepam,528,8.564393939,C0009011
+Anxiety,Lexapro,483,7.906832298,C1170371
+Anxiety,Hydroxyzine,422,5.779620853,C0020404
+Anxiety,Lorazepam,417,8.278177458,C0024002
+Anxiety,Xanax,375,8.741333333,C0699034
+Anxiety,BuSpar,303,6.432343234,C0600122
+Anxiety,Klonopin,284,8.612676056,C0699315
+Anxiety,Gabapentin,260,8.088461538,C0060926
+Anxiety,Diazepam,259,8.77992278,C0012010
+Anxiety,Ativan,227,8.233480176,C0699194
+Anxiety,Paroxetine,212,7.410377358,C0070122
+Anxiety,Venlafaxine,191,7.057591623,C0078569
+Anxiety,Mirtazapine,180,6.883333333,C0049506
+Anxiety,Duloxetine,174,6.965517241,C0245561
+Anxiety,Paxil,169,7.355029586,C0376414
+Anxiety,Cymbalta,161,7.055900621,C1505021
+Anxiety,Effexor XR,133,7.315789474,C0595028
+Anxiety,Valium,125,9.096,C0699187
+Anxiety,Vistaril,123,5.788617886,C0936278
+Anxiety,Desvenlafaxine,117,7.299145299,C1880288
+Anxiety,Propranolol,111,7.990990991,C0033497
+Anxiety,Pristiq,92,7.293478261,C1871864
+Anxiety,Bupropion,75,7.066666667,C0085208
+Anxiety,Atarax,62,5.951612903,C0684229
+Anxiety,Trazodone,61,7.557377049,C0040805
+Anxiety,Tramadol,51,9.509803922,C0040610
+Anxiety,Oxazepam,34,9.117647059,C0029997
+Anxiety,Vilazodone,28,6.678571429,C1530072
+Anxiety,Xanax XR,27,8.814814815,C1330607
+Anxiety,Atenolol,27,7.518518519,C0004147
+Anxiety,Risperidone,26,6.076923077,C0073393
+Anxiety,Clonidine,25,7.48,C0009014
+Anxiety,Remeron,25,7.08,C0525726
+Anxiety,Clorazepate,24,8.958333333,C0008174
+Anxiety,Lamotrigine,24,7.375,C0064636
+Anxiety,Chlordiazepoxide,20,8.25,C0008188
+Anxiety,Librium,16,8.25,C0013881
+Anxiety,Doxepin,13,7.076923077,C0013085
+Anxiety,Oxcarbazepine,13,5.923076923,C0069751
+Anxiety,Neurontin,11,8.272727273,C0678176
+Anxiety,Niravam,10,9.7,C1616710
+Anxiety,Serax,10,8.8,C0702214
+Anxiety,Prochlorperazine,9,5.666666667,C0033229
+Anxiety,Tranxene,7,9.428571429,C0699937
+Anxiety,Paxil CR,7,8.857142857,C0876119
+Anxiety,Klonopin Wafer,6,9.666666667,C1330369
+Anxiety,Meprobamate,6,8.166666667,C0025386
+Anxiety,Viibryd,6,7.5,C2962550
+Anxiety,Nefazodone,4,7.25,C0068485
+Anxiety,Wellbutrin,4,7.0,C0085934
+Anxiety,Trifluoperazine,4,6.75,C0040979
+Anxiety,Wellbutrin XL,4,6.0,C1330606
+Anxiety,Compazine,4,3.0,C0701017
+Anxiety,Alprazolam Intensol,3,10.0,C1612399
+Anxiety,Diazepam Intensol,3,10.0,C1274011
+Anxiety,Amitriptyline / chlordiazepoxide,3,9.666666667,C2742631
+Anxiety,Amitriptyline / perphenazine,3,9.666666667,C2938509
+Anxiety,Kava,3,9.0,C0521083
+Anxiety,Pexeva,3,9.0,C1602496
+Anxiety,Tenormin,3,8.666666667,C0592168
+Anxiety,Miltown,3,7.0,C0700705
+Anxiety,Catapres,3,6.333333333,C0699881
+Anxiety,Stelazine,3,6.0,C0733842
+Anxiety,Trileptal,3,5.666666667,C0876196
+Anxiety,Lorazepam Intensol,2,10.0,C5448700
+Anxiety,Tranxene SD,2,10.0,C0723808
+Anxiety,Limbitrol DS,2,9.5,C0721366
+Anxiety,Triavil,2,9.5,C0723883
+Anxiety,Dilantin,2,8.5,C0031507
+Anxiety,Phenytoin,2,8.5,C0031507
+Anxiety,Desyrel,2,8.0,C0701914
+Anxiety,Nadolol,2,7.0,C0027302
+Anxiety,Vanspar,2,1.5,C1617759
+Anxiety and Stress,Citalopram,560,7.623214286,C0008845
+Anxiety and Stress,Celexa,319,7.589341693,C0719199
+Anxiety and Stress,Fluoxetine,303,7.587458746,C0016365
+Anxiety and Stress,Sertraline,296,7.415540541,C0074393
+Anxiety and Stress,Prozac,199,7.703517588,C0162373
+Anxiety and Stress,Venlafaxine,94,7.159574468,C0078569
+Anxiety and Stress,Paroxetine,94,6.787234043,C0070122
+Anxiety and Stress,Amitriptyline,86,7.697674419,C0002600
+Anxiety and Stress,Paxil,73,6.506849315,C0376414
+Anxiety and Stress,Zoloft,67,7.597014925,C0284660
+Anxiety and Stress,Effexor,38,7.526315789,C0591437
+Anxiety and Stress,Fluvoxamine,38,5.763157895,C0085228
+Anxiety and Stress,Effexor XR,23,8.217391304,C0595028
+Anxiety and Stress,Luvox,20,5.3,C0086307
+Anxiety and Stress,Elavil,15,9.6,C0087119
+Anxiety and Stress,Prazosin,7,9.285714286,C0032912
+Anxiety and Stress,Luvox CR,2,9.0,C2342291
+Autism,Risperidone,38,6.210526316,C0073393
+Autism,Aripiprazole,20,7.2,C0299792
+Autism,Risperdal,20,5.4,C0592071
+Autism,Abilify,18,7.0,C1170019
+Autism,Geodon,8,4.875,C0939698
+Autism,Ziprasidone,8,4.875,C0380393
+Autism,Venlafaxine,3,7.0,C0078569
+Autism,Effexor,2,10.0,C0591437
+Autism,Memantine,2,8.0,C0025242
+Binge Eating Disorde,Lisdexamfetamine,49,7.693877551,C1873633
+Binge Eating Disorde,Vyvanse,49,7.693877551,C1876807
+Binge Eating Disorde,Fluoxetine,3,9.666666667,C0016365
+Bipolar Disorde,Lamotrigine,549,8.262295082,C0064636
+Bipolar Disorde,Quetiapine,396,7.118686869,C0123091
+Bipolar Disorde,Lamictal,388,8.234536082,C0678180
+Bipolar Disorde,Lurasidone,376,6.824468085,C2003424
+Bipolar Disorde,Latuda,349,6.853868195,C2954611
+Bipolar Disorde,Seroquel,244,6.971311475,C0287163
+Bipolar Disorde,Aripiprazole,220,5.877272727,C0299792
+Bipolar Disorde,Abilify,199,5.854271357,C1170019
+Bipolar Disorde,Lithium,191,7.607329843,C0023870
+Bipolar Disorde,Asenapine,179,7.206703911,C2000088
+Bipolar Disorde,Saphris,168,7.339285714,C2719329
+Bipolar Disorde,Ziprasidone,163,5.607361963,C0380393
+Bipolar Disorde,Divalproex sodium,162,6.401234568,C0886883
+Bipolar Disorde,Geodon,148,5.5,C0939698
+Bipolar Disorde,Olanzapine,136,6.558823529,C0171023
+Bipolar Disorde,Depakote,114,6.192982456,C0719751
+Bipolar Disorde,Oxcarbazepine,100,8.13,C0069751
+Bipolar Disorde,Risperidone,98,6.5,C0073393
+Bipolar Disorde,Zyprexa,95,6.568421053,C0527258
+Bipolar Disorde,Topiramate,88,7.534090909,C0076829
+Bipolar Disorde,Gabapentin,84,8.392857143,C0060926
+Bipolar Disorde,Carbamazepine,81,6.87654321,C0006949
+Bipolar Disorde,Seroquel XR,80,7.4625,C1962503
+Bipolar Disorde,Clonazepam,77,8.545454545,C0009011
+Bipolar Disorde,Cariprazine,67,6.373134328,C2936870
+Bipolar Disorde,Vraylar,63,6.444444444,C4056542
+Bipolar Disorde,Risperdal,56,6.589285714,C0592071
+Bipolar Disorde,Klonopin,52,8.538461538,C0699315
+Bipolar Disorde,Venlafaxine,51,6.823529412,C0078569
+Bipolar Disorde,Topamax,47,7.425531915,C0723778
+Bipolar Disorde,Bupropion,41,6.902439024,C0085208
+Bipolar Disorde,Tegretol,38,7.184210526,C0700087
+Bipolar Disorde,Escitalopram,33,7.0,C1099456
+Bipolar Disorde,Sertraline,32,7.28125,C0074393
+Bipolar Disorde,Duloxetine,32,6.59375,C0245561
+Bipolar Disorde,Fluoxetine / olanzapine,30,8.333333333,C1608551
+Bipolar Disorde,Depakote ER,29,7.448275862,C0939309
+Bipolar Disorde,Trileptal,28,8.357142857,C0876196
+Bipolar Disorde,Symbyax,27,8.296296296,C1330549
+Bipolar Disorde,Lexapro,25,7.28,C1170371
+Bipolar Disorde,Cymbalta,22,7.0,C1505021
+Bipolar Disorde,Paliperidone,18,6.666666667,C0753678
+Bipolar Disorde,Effexor,15,8.266666667,C0591437
+Bipolar Disorde,Effexor XR,15,6.866666667,C0595028
+Bipolar Disorde,Lithobid,14,7.071428571,C0700751
+Bipolar Disorde,Armodafinil,12,9.333333333,C1701455
+Bipolar Disorde,Valproic acid,12,5.833333333,C0042291
+Bipolar Disorde,Zoloft,11,7.363636364,C0284660
+Bipolar Disorde,Desvenlafaxine,11,7.090909091,C1880288
+Bipolar Disorde,Nuvigil,9,9.444444444,C1871544
+Bipolar Disorde,Iloperidone,9,8.555555556,C0247194
+Bipolar Disorde,Epitol,9,7.888888889,C0700667
+Bipolar Disorde,Wellbutrin,9,6.0,C0085934
+Bipolar Disorde,Citalopram,8,7.75,C0008845
+Bipolar Disorde,Neurontin,8,7.75,C0678176
+Bipolar Disorde,Pristiq,7,7.571428571,C1871864
+Bipolar Disorde,Perphenazine,7,7.285714286,C0031184
+Bipolar Disorde,Invega,7,6.285714286,C1828935
+Bipolar Disorde,Zyprexa Zydis,6,8.166666667,C0876225
+Bipolar Disorde,Levetiracetam,6,7.166666667,C0377265
+Bipolar Disorde,Eskalith,5,9.2,C0700753
+Bipolar Disorde,Clonidine,5,7.0,C0009014
+Bipolar Disorde,Tegretol XR,4,6.5,C0592163
+Bipolar Disorde,Equetro,4,5.0,C1614653
+Bipolar Disorde,Klonopin Wafer,3,10.0,C1330369
+Bipolar Disorde,Lamictal ODT,3,9.0,C2710073
+Bipolar Disorde,Wellbutrin XL,3,8.333333333,C1330606
+Bipolar Disorde,Catapres,3,5.666666667,C0699881
+Bipolar Disorde,Eskalith-CR,2,10.0,C0720278
+Bipolar Disorde,Budeprion XL,2,7.0,C1828815
+Bipolar Disorde,Keppra,2,7.0,C0876060
+Bipolar Disorde,Trilafon,2,6.5,C0699490
+Bipolar Disorde,Fanapt,2,5.5,C2701270
+Bipolar Disorde,Risperdal M-Tab,2,5.5,C1330511
+Bipolar Disorde,Depakene,2,5.0,C0700661
+Bipolar Disorde,Wellbutrin SR,2,5.0,C0724393
+Bipolar Disorde,Risperdal Consta,2,4.0,C1320098
+Borderline Personality Disorde,Quetiapine,62,7.467741935,C0123091
+Borderline Personality Disorde,Lamotrigine,22,8.727272727,C0064636
+Borderline Personality Disorde,Olanzapine,17,7.352941176,C0171023
+Borderline Personality Disorde,Seroquel,13,7.461538462,C0287163
+Borderline Personality Disorde,Aripiprazole,11,7.272727273,C0299792
+Borderline Personality Disorde,Risperidone,10,5.9,C0073393
+Borderline Personality Disorde,Lurasidone,7,8.142857143,C2003424
+Borderline Personality Disorde,Risperdal,5,8.6,C0592071
+Borderline Personality Disorde,Sertraline,5,6.2,C0074393
+Borderline Personality Disorde,Topiramate,5,6.2,C0076829
+Borderline Personality Disorde,Abilify,4,8.75,C1170019
+Borderline Personality Disorde,Lithium,4,4.5,C0023870
+Borderline Personality Disorde,Fluoxetine,3,9.0,C0016365
+Borderline Personality Disorde,Latuda,3,8.666666667,C2954611
+Borderline Personality Disorde,Escitalopram,3,8.333333333,C1099456
+Borderline Personality Disorde,Oxcarbazepine,3,8.333333333,C0069751
+Borderline Personality Disorde,Clozapine,3,7.333333333,C0009079
+Borderline Personality Disorde,Buspirone,3,4.333333333,C0006462
+Borderline Personality Disorde,Clonazepam,2,9.0,C0009011
+Borderline Personality Disorde,L-methylfolate,2,9.0,C2939773
+Borderline Personality Disorde,Asenapine,2,8.0,C2000088
+Borderline Personality Disorde,Zyprexa Zydis,2,5.5,C0876225
+Borderline Personality Disorde,Carbamazepine,2,5.0,C0006949
+Borderline Personality Disorde,Citalopram,2,4.5,C0008845
+Bulimia,Fluoxetine,33,8.424242424,C0016365
+Bulimia,Prozac,21,8.0,C0162373
+Bulimia,Topiramate,10,7.1,C0076829
+Bulimia,Topamax,7,6.857142857,C0723778
+Bulimia,Venlafaxine,2,8.5,C0078569
+Chronic Fatigue Syndrome,Armodafinil,32,7.625,C1701455
+Chronic Fatigue Syndrome,Modafinil,28,7.0,C0066677
+Chronic Fatigue Syndrome,Nuvigil,27,7.62962963,C1871544
+Chronic Fatigue Syndrome,Lisdexamfetamine,7,9.714285714,C1873633
+Chronic Fatigue Syndrome,Provigil,6,7.333333333,C0722882
+Chronic Fatigue Syndrome,Cymbalta,5,4.8,C1505021
+Chronic Fatigue Syndrome,Duloxetine,5,4.8,C0245561
+Chronic Fatigue Syndrome,Amantadine,3,9.333333333,C0002403
+Chronic Fatigue Syndrome,Vyvanse,2,10.0,C1876807
+Depression,Bupropion,747,7.386880857,C0085208
+Depression,Sertraline,663,7.140271493,C0074393
+Depression,Venlafaxine,574,6.540069686,C0078569
+Depression,Desvenlafaxine,573,7.164048866,C1880288
+Depression,Pristiq,554,7.205776173,C1871864
+Depression,Escitalopram,515,7.559223301,C1099456
+Depression,Citalopram,513,7.471734893,C0008845
+Depression,Vortioxetine,458,5.934497817,C3661282
+Depression,Duloxetine,437,6.489702517,C0245561
+Depression,Cymbalta,411,6.489051095,C1505021
+Depression,Lexapro,408,7.620098039,C1170371
+Depression,Vilazodone,407,6.572481572,C1530072
+Depression,Viibryd,397,6.571788413,C2962550
+Depression,Fluoxetine,391,7.265984655,C0016365
+Depression,Zoloft,386,7.18134715,C0284660
+Depression,Wellbutrin,322,7.347826087,C0085934
+Depression,Trintellix,304,6.059210526,C4087086
+Depression,Celexa,299,7.37458194,C0719199
+Depression,Mirtazapine,280,7.339285714,C0049506
+Depression,Prozac,271,7.258302583,C0162373
+Depression,Effexor,259,5.783783784,C0591437
+Depression,Aripiprazole,202,6.881188119,C0299792
+Depression,Abilify,194,6.845360825,C1170019
+Depression,Effexor XR,189,7.328042328,C0595028
+Depression,Paroxetine,186,6.827956989,C0070122
+Depression,Wellbutrin XL,184,7.782608696,C1330606
+Depression,Paxil,136,6.816176471,C0376414
+Depression,Quetiapine,109,7.073394495,C0123091
+Depression,Remeron,95,7.589473684,C0525726
+Depression,Alprazolam,82,9.146341463,C0002333
+Depression,L-methylfolate,80,7.8875,C2939773
+Depression,Tramadol,75,9.413333333,C0040610
+Depression,Trazodone,74,7.27027027,C0040805
+Depression,Wellbutrin SR,71,6.788732394,C0724393
+Depression,Lamotrigine,65,8.0,C0064636
+Depression,Levomilnacipran,65,4.784615385,C3541367
+Depression,Xanax,64,9.171875,C0699034
+Depression,Olanzapine,64,6.046875,C0171023
+Depression,Deplin,61,7.508196721,C1693359
+Depression,Fetzima,57,4.666666667,C3663527
+Depression,Tranylcypromine,54,8.518518519,C0040778
+Depression,St. john's wort,51,8.666666667,C0813171
+Depression,Amitriptyline,51,8.490196078,C0002600
+Depression,Parnate,46,8.913043478,C0701426
+Depression,Seroquel XR,43,7.441860465,C1962503
+Depression,Modafinil,36,8.361111111,C0066677
+Depression,Phenelzine,36,8.305555556,C0031392
+Depression,Zyprexa,36,6.111111111,C0527258
+Depression,Nardil,33,8.424242424,C0701388
+Depression,Methylphenidate,32,9.0,C0025810
+Depression,Selegiline,26,8.461538462,C0036579
+Depression,Seroquel,26,7.230769231,C0287163
+Depression,Nortriptyline,26,6.461538462,C0028420
+Depression,Nefazodone,23,8.869565217,C0068485
+Depression,Brexpiprazole,22,7.318181818,C3885614
+Depression,Risperidone,22,6.318181818,C0073393
+Depression,Emsam,21,8.333333333,C1699309
+Depression,Niacin,20,9.75,C0027996
+Depression,Lithium,19,6.578947368,C0023870
+Depression,Armodafinil,17,7.411764706,C1701455
+Depression,Rexulti,17,7.294117647,C4033609
+Depression,Fluoxetine / olanzapine,16,8.875,C1608551
+Depression,Elavil,16,8.4375,C0087119
+Depression,Fluvoxamine,16,7.0,C0085228
+Depression,Symbyax,15,8.933333333,C1330549
+Depression,Doxepin,15,6.933333333,C0013085
+Depression,Nuvigil,14,7.0,C1871544
+Depression,Budeprion XL,14,6.928571429,C1828815
+Depression,Clomipramine,13,9.230769231,C0009010
+Depression,Desipramine,12,9.0,C0011685
+Depression,Paxil CR,12,7.083333333,C0876119
+Depression,Imipramine,12,6.75,C0020934
+Depression,Serzone,9,9.666666667,C0591424
+Depression,Aplenzin,7,6.142857143,C2609728
+Depression,Provigil,6,8.833333333,C0722882
+Depression,Budeprion SR,6,8.333333333,C2342708
+Depression,Risperdal,6,6.666666667,C0592071
+Depression,Norpramin,5,9.8,C0701352
+Depression,Anafranil,5,8.4,C0002752
+Depression,S-adenosylmethionine,5,8.4,C0036002
+Depression,Remeron SolTab,5,8.0,C0939464
+Depression,Lisdexamfetamine,5,6.8,C1873633
+Depression,Oleptro,5,6.2,C2740387
+Depression,Amitriptyline / chlordiazepoxide,4,9.5,C2742631
+Depression,Amoxapine,4,9.5,C0002644
+Depression,Luvox,4,7.25,C0086307
+Depression,Atomoxetine,4,6.5,C0076823
+Depression,Tofranil,4,6.0,C0025231
+Depression,Pamelor,4,5.0,C0030256
+Depression,Isocarboxazid,3,9.0,C0022154
+Depression,Marplan,3,9.0,C0591755
+Depression,Sinequan,3,8.666666667,C0728757
+Depression,Desyrel,3,7.333333333,C0701914
+Depression,Paliperidone,3,7.0,C0753678
+Depression,Strattera,3,5.666666667,C1176420
+Depression,Limbitrol,2,9.5,C0064989
+Depression,Maprotiline,2,9.5,C0024778
+Depression,Methylin ER,2,9.5,C0939379
+Depression,Tryptophan,2,5.0,C0041249
+Generalized Anxiety Disorde,Escitalopram,392,8.239795918,C1099456
+Generalized Anxiety Disorde,Lexapro,268,8.451492537,C1170371
+Generalized Anxiety Disorde,Pregabalin,158,8.32278481,C0657912
+Generalized Anxiety Disorde,Quetiapine,100,7.59,C0123091
+Generalized Anxiety Disorde,Citalopram,95,8.094736842,C0008845
+Generalized Anxiety Disorde,Venlafaxine,94,6.627659574,C0078569
+Generalized Anxiety Disorde,Duloxetine,87,6.747126437,C0245561
+Generalized Anxiety Disorde,Cymbalta,81,6.679012346,C1505021
+Generalized Anxiety Disorde,Sertraline,79,7.721518987,C0074393
+Generalized Anxiety Disorde,Paroxetine,59,7.779661017,C0070122
+Generalized Anxiety Disorde,Effexor XR,42,6.785714286,C0595028
+Generalized Anxiety Disorde,Paxil,40,7.75,C0376414
+Generalized Anxiety Disorde,Lyrica,17,8.882352941,C1570232
+Generalized Anxiety Disorde,Seroquel,14,7.428571429,C0287163
+Generalized Anxiety Disorde,Celexa,5,8.4,C0719199
+Generalized Anxiety Disorde,Paxil CR,5,8.0,C0876119
+Generalized Anxiety Disorde,Seroquel XR,5,7.0,C1962503
+Hypersomnia,Armodafinil,27,6.592592593,C1701455
+Hypersomnia,Nuvigil,22,6.5,C1871544
+Hypersomnia,Caffeine,14,7.428571429,C0006644
+Hypersomnia,Modafinil,11,6.909090909,C0066677
+Hypersomnia,NoDoz,9,6.666666667,C1828954
+Hypersomnia,Vivarin,4,8.75,C0724373
+Hypersomnia,Dextroamphetamine,4,7.75,C0011812
+Hypersomnia,Provigil,3,9.333333333,C0722882
+Insomnia,Zolpidem,623,7.335473515,C0078839
+Insomnia,Trazodone,517,6.686653772,C0040805
+Insomnia,Ambien,381,7.364829396,C0487782
+Insomnia,Suvorexant,273,3.688644689,C3179535
+Insomnia,Belsomra,265,3.660377358,C3854974
+Insomnia,Quetiapine,243,7.946502058,C0123091
+Insomnia,Temazepam,232,6.818965517,C0039468
+Insomnia,Eszopiclone,210,6.223809524,C1436328
+Insomnia,Lunesta,172,6.51744186,C1579761
+Insomnia,Doxepin,170,6.541176471,C0013085
+Insomnia,Mirtazapine,163,7.386503067,C0049506
+Insomnia,Amitriptyline,148,7.189189189,C0002600
+Insomnia,Melatonin,125,6.888,C0025219
+Insomnia,Clonazepam,103,7.54368932,C0009011
+Insomnia,Doxylamine,102,6.833333333,C0013092
+Insomnia,Silenor,95,6.852631579,C2747642
+Insomnia,Diphenhydramine,84,6.464285714,C0012522
+Insomnia,Zaleplon,74,5.581081081,C0251504
+Insomnia,Gabapentin,63,7.793650794,C0060926
+Insomnia,Seroquel,61,8.278688525,C0287163
+Insomnia,Ramelteon,61,4.639344262,C1565316
+Insomnia,Lorazepam,59,8.084745763,C0024002
+Insomnia,Ambien CR,59,6.881355932,C1644791
+Insomnia,Restoril,58,7.655172414,C0723045
+Insomnia,Rozerem,53,4.849056604,C1621477
+Insomnia,Sonata,42,5.666666667,C0876170
+Insomnia,Triazolam,36,9.166666667,C0040879
+Insomnia,Unisom SleepTabs,34,6.058823529,C0714660
+Insomnia,Olanzapine,27,7.333333333,C0171023
+Insomnia,Flurazepam,21,8.571428571,C0016375
+Insomnia,Remeron,21,7.80952381,C0525726
+Insomnia,Ativan,21,7.476190476,C0699194
+Insomnia,Halcion,19,9.210526316,C0733624
+Insomnia,Sominex,19,7.368421053,C0592125
+Insomnia,Elavil,18,7.611111111,C0087119
+Insomnia,Chloral hydrate,16,8.4375,C0008161
+Insomnia,Acetaminophen / diphenhydramine,16,7.0625,C0717366
+Insomnia,Zyprexa,15,7.133333333,C0527258
+Insomnia,Estazolam,14,9.428571429,C0014892
+Insomnia,Klonopin,14,9.0,C0699315
+Insomnia,Simply Sleep,12,5.583333333,C0876890
+Insomnia,Dalmane,11,8.727272727,C0733803
+Insomnia,Tylenol PM,11,6.363636364,C0724028
+Insomnia,Diphenhydramine / naproxen,11,6.272727273,C3858058
+Insomnia,Desyrel,11,6.090909091,C0701914
+Insomnia,Somnote,9,9.111111111,C1170615
+Insomnia,Unisom SleepGels,9,4.666666667,C0710316
+Insomnia,Edluar,8,8.875,C2718745
+Insomnia,Intermezzo,6,9.666666667,C3248046
+Insomnia,Seroquel XR,6,8.166666667,C1962503
+Insomnia,Zolpimist,6,6.833333333,C2370737
+Insomnia,Secobarbital,5,10.0,C0036516
+Insomnia,Quazepam,5,9.6,C0072828
+Insomnia,Neurontin,5,8.2,C0678176
+Insomnia,Nytol,5,6.6,C0591894
+Insomnia,Tryptophan,4,9.75,C0041249
+Insomnia,Oxazepam,4,8.0,C0029997
+Insomnia,Sleep Aid,4,8.0,C0718303
+Insomnia,Benadryl Allergy,4,6.5,C0718876
+Insomnia,Benadryl,4,6.25,C0700899
+Insomnia,Seconal Sodium,3,10.0,C0733450
+Insomnia,Dimenhydrinate,3,9.666666667,C0012381
+Insomnia,Doral,3,9.333333333,C0720023
+Insomnia,ZzzQuil,3,2.0,C3249761
+Insomnia,Seconal,2,10.0,C0733450
+Insomnia,Compoz Nighttime Sleep Aid,2,9.0,C0719459
+Insomnia,Excedrin PM,2,9.0,C0720333
+Insomnia,Valerian,2,4.0,C0795674
+Major Depressive Disorde,Vortioxetine,222,6.527027027,C3661282
+Major Depressive Disorde,Trintellix,180,6.4,C4087086
+Major Depressive Disorde,Bupropion,142,7.211267606,C0085208
+Major Depressive Disorde,Vilazodone,105,5.6,C1530072
+Major Depressive Disorde,Venlafaxine,103,6.922330097,C0078569
+Major Depressive Disorde,Viibryd,98,5.744897959,C2962550
+Major Depressive Disorde,Brexpiprazole,82,6.402439024,C3885614
+Major Depressive Disorde,Sertraline,78,7.423076923,C0074393
+Major Depressive Disorde,Rexulti,75,6.573333333,C4033609
+Major Depressive Disorde,Levomilnacipran,68,5.235294118,C3541367
+Major Depressive Disorde,Fetzima,65,5.261538462,C3663527
+Major Depressive Disorde,Mirtazapine,61,6.93442623,C0049506
+Major Depressive Disorde,Zoloft,60,7.066666667,C0284660
+Major Depressive Disorde,Aripiprazole,57,6.175438596,C0299792
+Major Depressive Disorde,Abilify,53,5.943396226,C1170019
+Major Depressive Disorde,Escitalopram,51,7.039215686,C1099456
+Major Depressive Disorde,Wellbutrin XL,51,6.882352941,C1330606
+Major Depressive Disorde,Effexor XR,48,7.020833333,C0595028
+Major Depressive Disorde,Duloxetine,47,6.595744681,C0245561
+Major Depressive Disorde,Fluoxetine,46,7.608695652,C0016365
+Major Depressive Disorde,Wellbutrin,46,7.108695652,C0085934
+Major Depressive Disorde,Cymbalta,43,6.325581395,C1505021
+Major Depressive Disorde,Desvenlafaxine,38,5.868421053,C1880288
+Major Depressive Disorde,Lexapro,35,7.085714286,C1170371
+Major Depressive Disorde,Pristiq,35,6.114285714,C1871864
+Major Depressive Disorde,Prozac,34,7.411764706,C0162373
+Major Depressive Disorde,Effexor,28,6.392857143,C0591437
+Major Depressive Disorde,Quetiapine,22,5.590909091,C0123091
+Major Depressive Disorde,Paroxetine,21,7.0,C0070122
+Major Depressive Disorde,Remeron,21,6.857142857,C0525726
+Major Depressive Disorde,Paxil,17,7.588235294,C0376414
+Major Depressive Disorde,Trazodone,17,7.0,C0040805
+Major Depressive Disorde,Wellbutrin SR,16,7.625,C0724393
+Major Depressive Disorde,Olanzapine,16,6.8125,C0171023
+Major Depressive Disorde,Seroquel XR,11,5.454545455,C1962503
+Major Depressive Disorde,Zyprexa,10,6.1,C0527258
+Major Depressive Disorde,Fluoxetine / olanzapine,4,8.25,C1608551
+Major Depressive Disorde,Nefazodone,3,9.666666667,C0068485
+Major Depressive Disorde,Symbyax,3,8.0,C1330549
+Major Depressive Disorde,Emsam,3,6.0,C1699309
+Major Depressive Disorde,Selegiline,3,6.0,C0036579
+Major Depressive Disorde,Budeprion XL,2,9.5,C1828815
+Major Depressive Disorde,Desyrel,2,4.0,C0701914
+mance Anxiety,Propranolol,259,9.671814672,C0033497
+Mania,Divalproex sodium,21,7.761904762,C0886883
+Mania,Depakote,13,7.538461538,C0719751
+Mania,Lithium,10,7.6,C0023870
+Mania,Chlorpromazine,5,5.8,C0008286
+Mania,Haloperidol,5,3.6,C0018546
+Mania,Risperdal,4,8.5,C0592071
+Mania,Risperidone,4,8.5,C0073393
+Mania,Haldol,3,2.666666667,C0591585
+Mania,Valproic acid,2,10.0,C0042291
+Mania,Depakote ER,2,8.0,C0939309
+Mania,Thorazine,2,5.5,C0699065
+Obsessive Compulsive Disorde,Sertraline,105,8.038095238,C0074393
+Obsessive Compulsive Disorde,Fluvoxamine,83,7.86746988,C0085228
+Obsessive Compulsive Disorde,Zoloft,80,8.25,C0284660
+Obsessive Compulsive Disorde,Clomipramine,75,8.106666667,C0009010
+Obsessive Compulsive Disorde,Fluoxetine,64,8.1875,C0016365
+Obsessive Compulsive Disorde,Luvox,51,8.176470588,C0086307
+Obsessive Compulsive Disorde,Prozac,41,8.390243902,C0162373
+Obsessive Compulsive Disorde,Anafranil,38,8.263157895,C0002752
+Obsessive Compulsive Disorde,Escitalopram,35,8.742857143,C1099456
+Obsessive Compulsive Disorde,Paroxetine,24,7.5,C0070122
+Obsessive Compulsive Disorde,Citalopram,21,7.904761905,C0008845
+Obsessive Compulsive Disorde,Paxil,18,7.833333333,C0376414
+Obsessive Compulsive Disorde,Quetiapine,17,8.529411765,C0123091
+Obsessive Compulsive Disorde,Aripiprazole,15,7.666666667,C0299792
+Obsessive Compulsive Disorde,Venlafaxine,12,8.0,C0078569
+Obsessive Compulsive Disorde,Abilify,11,7.272727273,C1170019
+Obsessive Compulsive Disorde,Lexapro,10,9.1,C1170371
+Obsessive Compulsive Disorde,Mirtazapine,10,7.6,C0049506
+Obsessive Compulsive Disorde,Olanzapine,9,6.444444444,C0171023
+Obsessive Compulsive Disorde,Seroquel,6,9.0,C0287163
+Obsessive Compulsive Disorde,Celexa,4,8.75,C0719199
+Obsessive Compulsive Disorde,Effexor XR,3,9.0,C0595028
+Obsessive Compulsive Disorde,Riluzole,3,8.0,C0073379
+Obsessive Compulsive Disorde,Zyprexa,3,5.333333333,C0527258
+Obsessive Compulsive Disorde,Vilazodone,3,3.0,C1530072
+Obsessive Compulsive Disorde,Clonazepam,2,9.0,C0009011
+Obsessive Compulsive Disorde,Luvox CR,2,9.0,C2342291
+Obsessive Compulsive Disorde,Effexor,2,8.0,C0591437
+Opiate Dependence,Buprenorphine / naloxone,588,8.547619048,C1169989
+Opiate Dependence,Suboxone,467,9.057815846,C1170625
+Opiate Dependence,Buprenorphine,99,9.161616162,C0006405
+Opiate Dependence,Naltrexone,89,7.808988764,C0027360
+Opiate Dependence,Vivitrol,69,8.0,C1712071
+Opiate Dependence,Subutex,66,9.303030303,C0006404
+Opiate Dependence,Zubsolv,53,6.58490566,C3651901
+Opiate Dependence,Bunavail,44,6.113636364,C3834225
+Opiate Dependence,Revia,2,9.5,C0591842
+Opiate Withdrawal,Methadone,173,8.774566474,C0025605
+Opiate Withdrawal,Clonidine,160,8.21875,C0009014
+Opiate Withdrawal,Catapres,24,8.333333333,C0699881
+Opiate Withdrawal,Methocarbamol,20,7.95,C0025659
+Opiate Withdrawal,Methadose,19,8.789473684,C0592779
+Opiate Withdrawal,Methadone Diskets,15,9.266666667,C0306794
+Opiate Withdrawal,Robaxin,6,6.666666667,C0699926
+Opiate Withdrawal,Dolophine,4,9.75,C0699057
+Opiate Withdrawal,Robaxin-750,3,9.666666667,C0723103
+Opiate Withdrawal,Catapres-TTS,3,8.333333333,C0917969
+Opiate Withdrawal,Chlordiazepoxide,3,7.333333333,C0008188
+Opiate Withdrawal,Chlorpromazine,2,8.5,C0008286
+Opiate Withdrawal,Tramadol,2,5.5,C0040610
+Panic Disorde,Sertraline,271,7.73800738,C0074393
+Panic Disorde,Clonazepam,254,9.039370079,C0009011
+Panic Disorde,Alprazolam,228,9.184210526,C0002333
+Panic Disorde,Zoloft,210,7.70952381,C0284660
+Panic Disorde,Xanax,152,9.203947368,C0699034
+Panic Disorde,Klonopin,145,8.986206897,C0699315
+Panic Disorde,Paroxetine,80,7.85,C0070122
+Panic Disorde,Buspirone,65,5.923076923,C0006462
+Panic Disorde,Paxil,59,7.966101695,C0376414
+Panic Disorde,Fluoxetine,57,7.964912281,C0016365
+Panic Disorde,Lorazepam,54,8.759259259,C0024002
+Panic Disorde,Citalopram,51,7.725490196,C0008845
+Panic Disorde,Prozac,37,7.945945946,C0162373
+Panic Disorde,BuSpar,36,6.027777778,C0600122
+Panic Disorde,Venlafaxine,30,7.733333333,C0078569
+Panic Disorde,Ativan,28,9.0,C0699194
+Panic Disorde,Propranolol,27,7.925925926,C0033497
+Panic Disorde,Effexor XR,19,7.473684211,C0595028
+Panic Disorde,Xanax XR,18,9.111111111,C1330607
+Panic Disorde,Clomipramine,14,9.357142857,C0009010
+Panic Disorde,Celexa,14,8.071428571,C0719199
+Panic Disorde,Imipramine,13,7.461538462,C0020934
+Panic Disorde,Bupropion,10,7.4,C0085208
+Panic Disorde,Desvenlafaxine,8,8.0,C1880288
+Panic Disorde,Pristiq,7,7.857142857,C1871864
+Panic Disorde,Anafranil,6,9.166666667,C0002752
+Panic Disorde,Klonopin Wafer,5,9.8,C1330369
+Panic Disorde,Tofranil,5,8.8,C0025231
+Panic Disorde,Paxil CR,5,5.6,C0876119
+Panic Disorde,Wellbutrin,4,6.0,C0085934
+Panic Disorde,Alprazolam Intensol,3,9.666666667,C1612399
+Panic Disorde,Nortriptyline,3,9.666666667,C0028420
+Panic Disorde,Lorazepam Intensol,3,8.333333333,C5448700
+Panic Disorde,Maprotiline,3,7.333333333,C0024778
+Panic Disorde,Nefazodone,2,9.5,C0068485
+Panic Disorde,Wellbutrin SR,2,9.5,C0724393
+Paranoid Disorde,Olanzapine,11,6.727272727,C0171023
+Paranoid Disorde,Quetiapine,9,7.0,C0123091
+Paranoid Disorde,Risperidone,8,4.75,C0073393
+Paranoid Disorde,Zyprexa,7,5.142857143,C0527258
+Paranoid Disorde,Ziprasidone,4,6.75,C0380393
+Paranoid Disorde,Seroquel,2,9.0,C0287163
+Paranoid Disorde,Clozapine,2,8.5,C0009079
+Paranoid Disorde,Risperdal,2,1.5,C0592071
+Post Traumatic Stress Disorde,Sertraline,67,7.47761194,C0074393
+Post Traumatic Stress Disorde,Prazosin,61,7.803278689,C0032912
+Post Traumatic Stress Disorde,Zoloft,49,7.408163265,C0284660
+Post Traumatic Stress Disorde,Quetiapine,34,7.529411765,C0123091
+Post Traumatic Stress Disorde,Paroxetine,22,7.272727273,C0070122
+Post Traumatic Stress Disorde,Mirtazapine,22,6.227272727,C0049506
+Post Traumatic Stress Disorde,Risperidone,19,7.210526316,C0073393
+Post Traumatic Stress Disorde,Paxil,19,7.0,C0376414
+Post Traumatic Stress Disorde,Lamotrigine,16,9.25,C0064636
+Post Traumatic Stress Disorde,Asenapine,16,8.5,C2000088
+Post Traumatic Stress Disorde,Venlafaxine,13,6.384615385,C0078569
+Post Traumatic Stress Disorde,Desvenlafaxine,12,9.166666667,C1880288
+Post Traumatic Stress Disorde,Pristiq,9,9.0,C1871864
+Post Traumatic Stress Disorde,Saphris,9,8.666666667,C2719329
+Post Traumatic Stress Disorde,Amitriptyline,8,9.0,C0002600
+Post Traumatic Stress Disorde,Minipress,7,9.142857143,C0242447
+Post Traumatic Stress Disorde,Dronabinol,7,8.714285714,C0039663
+Post Traumatic Stress Disorde,Aripiprazole,7,7.428571429,C0299792
+Post Traumatic Stress Disorde,Fluvoxamine,7,5.714285714,C0085228
+Post Traumatic Stress Disorde,Seroquel,6,6.666666667,C0287163
+Post Traumatic Stress Disorde,Risperdal,5,9.0,C0592071
+Post Traumatic Stress Disorde,Elavil,4,9.5,C0087119
+Post Traumatic Stress Disorde,Seroquel XR,3,9.333333333,C1962503
+Post Traumatic Stress Disorde,Celexa,2,10.0,C0719199
+Post Traumatic Stress Disorde,Citalopram,2,10.0,C0008845
+Post Traumatic Stress Disorde,Abilify,2,7.5,C1170019
+Postpartum Depression,Citalopram,21,7.19047619,C0008845
+Postpartum Depression,Sertraline,19,8.052631579,C0074393
+Postpartum Depression,Zoloft,17,8.0,C0284660
+Postpartum Depression,Venlafaxine,15,7.066666667,C0078569
+Postpartum Depression,Celexa,12,7.333333333,C0719199
+Postpartum Depression,Effexor XR,11,8.181818182,C0595028
+Postpartum Depression,Paroxetine,6,6.833333333,C0070122
+Postpartum Depression,Paxil,6,6.833333333,C0376414
+Postpartum Depression,Fluoxetine,3,10.0,C0016365
+Postpartum Depression,Prozac,2,10.0,C0162373
+Postpartum Depression,Effexor,2,2.5,C0591437
+Premenstrual Dysphoric Disorde,Drospirenone / ethinyl estradiol,83,7.204819277,C2604206
+Premenstrual Dysphoric Disorde,Fluoxetine,74,8.648648649,C0016365
+Premenstrual Dysphoric Disorde,Yaz,53,7.622641509,C1696294
+Premenstrual Dysphoric Disorde,Sertraline,36,8.666666667,C0074393
+Premenstrual Dysphoric Disorde,Zoloft,30,8.533333333,C0284660
+Premenstrual Dysphoric Disorde,Sarafem,18,8.722222222,C1692877
+Premenstrual Dysphoric Disorde,Gianvi,17,7.411764706,C2920070
+Premenstrual Dysphoric Disorde,Citalopram,14,9.214285714,C0008845
+Premenstrual Dysphoric Disorde,Drospirenone / ethinyl estradiol / levomefolate calcium,11,7.636363636,C4032405
+Premenstrual Dysphoric Disorde,Prozac,11,7.454545455,C0162373
+Premenstrual Dysphoric Disorde,Beyaz,10,7.9,C2947961
+Premenstrual Dysphoric Disorde,Escitalopram,8,9.25,C1099456
+Premenstrual Dysphoric Disorde,Yasmin,6,6.666666667,C0939533
+Premenstrual Dysphoric Disorde,Celexa,3,9.333333333,C0719199
+Premenstrual Dysphoric Disorde,Lexapro,3,9.333333333,C1170371
+Premenstrual Dysphoric Disorde,Paroxetine,3,9.333333333,C0070122
+Premenstrual Dysphoric Disorde,Venlafaxine,3,9.333333333,C0078569
+Premenstrual Dysphoric Disorde,Bupropion,3,8.666666667,C0085208
+Premenstrual Dysphoric Disorde,Loryna,3,1.0,C3244637
+Premenstrual Dysphoric Disorde,Evening Primrose Oil,2,9.5,C0700602
+Schizoaffective Disorde,Paliperidone,46,6.065217391,C0753678
+Schizoaffective Disorde,Aripiprazole,40,6.825,C0299792
+Schizoaffective Disorde,Olanzapine,38,5.921052632,C0171023
+Schizoaffective Disorde,Ziprasidone,37,7.216216216,C0380393
+Schizoaffective Disorde,Abilify,36,7.027777778,C1170019
+Schizoaffective Disorde,Geodon,35,7.114285714,C0939698
+Schizoaffective Disorde,Quetiapine,32,6.8125,C0123091
+Schizoaffective Disorde,Invega,32,5.6875,C1828935
+Schizoaffective Disorde,Risperidone,30,6.333333333,C0073393
+Schizoaffective Disorde,Seroquel,24,7.458333333,C0287163
+Schizoaffective Disorde,Asenapine,21,7.714285714,C2000088
+Schizoaffective Disorde,Saphris,21,7.714285714,C2719329
+Schizoaffective Disorde,Zyprexa,21,6.571428571,C0527258
+Schizoaffective Disorde,Lurasidone,20,9.1,C2003424
+Schizoaffective Disorde,Risperdal,19,6.368421053,C0592071
+Schizoaffective Disorde,Latuda,14,8.928571429,C2954611
+Schizoaffective Disorde,Lamotrigine,12,9.333333333,C0064636
+Schizoaffective Disorde,Lamictal,9,9.222222222,C0678180
+Schizoaffective Disorde,Invega Sustenna,9,6.111111111,C2722404
+Schizoaffective Disorde,Seroquel XR,6,5.0,C1962503
+Schizoaffective Disorde,Lithium,5,9.0,C0023870
+Schizoaffective Disorde,Valproic acid,4,6.75,C0042291
+Schizoaffective Disorde,Zyprexa Zydis,4,5.25,C0876225
+Schizoaffective Disorde,Lithobid,2,9.5,C0700751
+Schizoaffective Disorde,Depakene,2,9.0,C0700661
+Schizophrenia,Paliperidone,67,6.104477612,C0753678
+Schizophrenia,Lurasidone,62,6.435483871,C2003424
+Schizophrenia,Latuda,59,6.389830508,C2954611
+Schizophrenia,Aripiprazole,57,6.666666667,C0299792
+Schizophrenia,Abilify,48,6.4375,C1170019
+Schizophrenia,Risperidone,47,5.829787234,C0073393
+Schizophrenia,Olanzapine,37,6.594594595,C0171023
+Schizophrenia,Invega,33,5.636363636,C1828935
+Schizophrenia,Quetiapine,32,7.125,C0123091
+Schizophrenia,Ziprasidone,30,6.9,C0380393
+Schizophrenia,Geodon,27,7.074074074,C0939698
+Schizophrenia,Asenapine,26,7.884615385,C2000088
+Schizophrenia,Saphris,26,7.884615385,C2719329
+Schizophrenia,Risperdal,25,5.36,C0592071
+Schizophrenia,Clozapine,21,8.619047619,C0009079
+Schizophrenia,Seroquel,21,6.333333333,C0287163
+Schizophrenia,Zyprexa,20,6.75,C0527258
+Schizophrenia,Invega Sustenna,19,6.526315789,C2722404
+Schizophrenia,Cariprazine,13,7.846153846,C2936870
+Schizophrenia,Vraylar,13,7.846153846,C4056542
+Schizophrenia,Iloperidone,12,6.5,C0247194
+Schizophrenia,Brexpiprazole,12,6.0,C3885614
+Schizophrenia,Fanapt,11,7.0,C2701270
+Schizophrenia,Rexulti,9,4.888888889,C4033609
+Schizophrenia,Clozaril,8,9.0,C0719386
+Schizophrenia,Chlorpromazine,7,9.142857143,C0008286
+Schizophrenia,Trifluoperazine,7,8.571428571,C0040979
+Schizophrenia,Seroquel XR,6,8.666666667,C1962503
+Schizophrenia,Risperdal Consta,5,8.4,C1320098
+Schizophrenia,Abilify Maintena,5,8.2,C3554917
+Schizophrenia,Invega Trinza,5,7.6,C4046245
+Schizophrenia,Thorazine,4,9.5,C0699065
+Schizophrenia,Loxapine,4,6.5,C0024056
+Schizophrenia,Stelazine,3,10.0,C0733842
+Schizophrenia,Zyprexa Zydis,3,5.333333333,C0876225
+Schizophrenia,Thioridazine,2,9.0,C0039943
+Sexual Dysfunction; SSRI Induced,Bupropion,38,6.76315,C0085208
+Sexual Dysfunction; SSRI Induced,Sildenafil,17,8.2352,C0529793
+Sexual Dysfunction; SSRI Induced,Viagra,13,8.8461,C0663448
+Sexual Dysfunction; SSRI Induced,Buspirone,11,6.7272,C0006462
+Sexual Dysfunction; SSRI Induced,Dextroamphetamine,6,9.5,C0011812
+Sexual Dysfunction; SSRI Induced,Wellbutrin,3,8.666,C0085934
+Sexual Dysfunction; SSRI Induced,Yohimbine,3,7.0,C0724441
+Sexual Dysfunction; SSRI Induced,BuSpar,3,6.333,C0600122
+Sexual Dysfunction; SSRI Induced,Dexedrine,2,9.5,C0591355
+Shift Work Sleep Disorde,Armodafinil,29,7.448275862,C1701455
+Shift Work Sleep Disorde,Nuvigil,26,7.5,C1871544
+Shift Work Sleep Disorde,Modafinil,17,8.411764706,C0066677
+Shift Work Sleep Disorde,Provigil,12,9.333333333,C0722882
+Social Anxiety Disorde,Sertraline,195,7.446153846,C0074393
+Social Anxiety Disorde,Zoloft,163,7.570552147,C0284660
+Social Anxiety Disorde,Paroxetine,63,7.952380952,C0070122
+Social Anxiety Disorde,Paxil,52,7.846153846,C0376414
+Social Anxiety Disorde,Venlafaxine,23,7.173913043,C0078569
+Social Anxiety Disorde,Effexor XR,13,7.538461538,C0595028
+Social Anxiety Disorde,Risperidone,4,7.0,C0073393
+Social Anxiety Disorde,Risperdal,3,9.0,C0592071
+Social Anxiety Disorde,Fluvoxamine,2,5.5,C0085228
+Tourette's Syndrome,Clonidine,19,7.105263158,C0009014
+Tourette's Syndrome,Pimozide,16,6.6875,C0031935
+Tourette's Syndrome,Orap,15,7.066666667,C0591918
+Tourette's Syndrome,Aripiprazole,8,7.125,C0299792
+Tourette's Syndrome,Guanfacine,5,6.4,C0079466
+Tourette's Syndrome,Abilify,4,9.25,C1170019
+Tourette's Syndrome,Haloperidol,4,4.25,C0018546
+Tourette's Syndrome,Topamax,3,8.0,C0723778
+Tourette's Syndrome,Topiramate,3,8.0,C0076829
+Tourette's Syndrome,Olanzapine,3,6.0,C0171023
+Tourette's Syndrome,Catapres,2,10.0,C0699881
+Tourette's Syndrome,Haldol,2,3.0,C0591585

@@ -1,0 +1,129 @@
+no_name,subject_cui,subject_name,predicate,object_cui,object_name,frequency
+0,C0087111,Therapeutic procedure,PREVENTS,C0879626,Adverse effects,1086
+1,C0279025,Endocrine therapy,PREVENTS,C0879626,Adverse effects,8
+2,C0017968,Glycoproteins,PREVENTS,C0175677,Injury,7
+3,C0040732,Transplantation,PREVENTS,C0036974,Shock,9
+4,C0042196,Vaccination,PREVENTS,C0598934,tumor growth,44
+5,C0001645,Adrenergic beta-Antagonists,PREVENTS,C0042345,Varicosity,21
+6,C0023690,Ligation,PREVENTS,C0042345,Varicosity,22
+7,C0015689,"Fatty Acids Omega-3",PREVENTS,C0242606,Oxidative Stress,15
+8,C0244404,Raloxifene,PREVENTS,C0080179,Spinal Fractures,95
+9,C0732611,Selective Estrogen Receptor Modulators,PREVENTS,C0080179,Spinal Fractures,11
+10,C1273869,Intervention regimes,PREVENTS,C0521654,Neurologic Deficits,21
+11,C0001047,Acetylcysteine,PREVENTS,C0027540,Necrosis,14
+12,C0087111,Therapeutic procedure,PREVENTS,C0027540,Necrosis,112
+13,C0009487,Commuting,PREVENTS,C0028754,Obesity,6
+14,C1273869,Intervention regimes,PREVENTS,C0028754,Obesity,1150
+15,C1273869,Intervention regimes,PREVENTS,C0497406,Overweight,217
+16,C0006675,Calcium,PREVENTS,C0029456,Osteoporosis,123
+17,C0021102,Implants,PREVENTS,C0016658,Fracture,29
+18,C0087111,Therapeutic procedure,PREVENTS,C0027651,Neoplasm,367
+19,C0003232,Antibiotics,PREVENTS,C0940933,"Complication, infection",33
+20,C0087111,Therapeutic procedure,PREVENTS,C1301721,Neurological morbidity,22
+21,C0032740,Positive-Pressure Respiration,PREVENTS,C0175677,Injury,28
+22,C0038638,Suction drainage,PREVENTS,C0025048,Meconium Aspiration Syndrome,11
+23,C0015525,Factor XII,PREVENTS,C0040053,Thrombosis,6
+24,C0013227,Pharmaceutical Preparations,PREVENTS,C0040053,Thrombosis,83
+25,C0018738,Health Promotion,PREVENTS,C0008679,Chronic Disease,31
+26,C1273869,Intervention regimes,PREVENTS,C0007222,Cardiovascular Diseases,314
+27,C0020268,Hydrocortisone,PREVENTS,C0009566,Complication,11
+28,C0087111,Therapeutic procedure,PREVENTS,C1457887,Symptoms,1608
+29,C0841853,Topical fluoride application,PREVENTS,C0333519,Caries,7
+30,C0017720,Glucosamine Sulfate,PREVENTS,C1457887,Symptoms,7
+31,C0003881,Arthrodesis,PREVENTS,C0030193,Pain,19
+32,C0013227,Pharmaceutical Preparations,PREVENTS,C0012634,Disease,312
+33,C0012528,Diphenylamine,PREVENTS,C0332691,Scalding injury,7
+34,C0054434,caffeic acid phenethyl ester,PREVENTS,C0175677,Injury,10
+35,C1136254,Microbicides,PREVENTS,C0019682,HIV,46
+36,C0040732,Transplantation,PREVENTS,C0175677,Injury,40
+37,C0038179,Starch,PREVENTS,C0012634,Disease,8
+38,C0006675,Calcium,PREVENTS,C0521170,[X]Unspecified osteoporosis with pathological fracture,15
+39,C0042866,Vitamin D,PREVENTS,C0521170,[X]Unspecified osteoporosis with pathological fracture,22
+40,C1257880,"Linoleic Acids Conjugated",PREVENTS,C0006142,Malignant neoplasm of breast,9
+41,C0087111,Therapeutic procedure,PREVENTS,C0019158,Hepatitis,23
+42,C0087111,Therapeutic procedure,PREVENTS,C0021359,Infertility,44
+43,C0014930,Estrogen Antagonists,PREVENTS,C0006142,Malignant neoplasm of breast,37
+44,C0087111,Therapeutic procedure,PREVENTS,C0006142,Malignant neoplasm of breast,110
+45,C0038838,Superoxide Dismutase,PREVENTS,C0175677,Injury,80
+46,C0087111,Therapeutic procedure,PREVENTS,C0016658,Fracture,805
+47,C0087111,Therapeutic procedure,PREVENTS,C0010957,Tissue damage,130
+48,C0014695,Vitamin D2,PREVENTS,C0019557,Hip Fractures,7
+49,C0102118,Alendronate,PREVENTS,C0019557,Hip Fractures,29
+50,C0087111,Therapeutic procedure,PREVENTS,C0019557,Hip Fractures,58
+51,C0078752,zeaxanthin,PREVENTS,C0086543,Cataract,9
+52,C0042210,Vaccines,PREVENTS,C0035870,Rotavirus,26
+53,C0021576,Insecticides,PREVENTS,C0175677,Injury,7
+54,C0725066,Advance,PREVENTS,C0009566,Complication,36
+55,C0765326,Seprafilm,PREVENTS,C0001511,Adhesions,47
+56,C0003281,anticoagulation,PREVENTS,C0040038,Thromboembolism,123
+57,C0014822,Erythropoietin,PREVENTS,C0021368,Inflammation,11
+58,C0014822,Erythropoietin,PREVENTS,C0175677,Injury,24
+59,C0042210,Vaccines,PREVENTS,C0019163,Hepatitis B,69
+60,C0026606,Physical activity,PREVENTS,C0028754,Obesity,410
+61,C0087111,Therapeutic procedure,PREVENTS,C0012634,Disease,1501
+62,C0042212,"Vaccines Inactivated",PREVENTS,C0012634,Disease,34
+63,C0025252,Membrane Proteins,PREVENTS,C0032269,Pneumococcal Infections,6
+64,C0033045,Premedication,PREVENTS,C0030201,"Pain, Postoperative",26
+65,C0144576,Paclitaxel,PREVENTS,C0333186,Restenosis,55
+66,C0543467,Operative Surgical Procedures,PREVENTS,C0006142,Malignant neoplasm of breast,14
+67,C0030899,Pentoxifylline,PREVENTS,C0033687,Proteinuria,28
+68,C0034618,Radiation therapy,PREVENTS,C0030193,Pain,48
+69,C0042210,Vaccines,PREVENTS,C0007847,Malignant neoplasm of cervix uteri,301
+70,C0042210,Vaccines,PREVENTS,C0009663,Anogenital venereal warts,88
+71,C0008269,Chloroquine,PREVENTS,C0012634,Disease,6
+72,C1273869,Intervention regimes,PREVENTS,C0085639,Falls,919
+73,C0013227,Pharmaceutical Preparations,PREVENTS,C0599918,NEPHROTOXICITY,29
+74,C0032042,Placebos,PREVENTS,C0020040,Menopausal hot flushes,23
+75,C0087111,Therapeutic procedure,PREVENTS,C0002395,Alzheimer's Disease,136
+76,C0087111,Therapeutic procedure,PREVENTS,C0041834,Erythema,21
+77,C0733470,human leukocyte interferon,PREVENTS,C0042769,Virus Diseases,7
+78,C0019134,Heparin,PREVENTS,C0040038,Thromboembolism,103
+79,C0019139,"Heparin Low-Molecular-Weight",PREVENTS,C0040038,Thromboembolism,293
+80,C0001563,"Administration Oral",PREVENTS,C0012634,Disease,16
+81,C0042210,Vaccines,PREVENTS,C0041296,Tuberculosis,224
+82,C0687732,Prevention,PREVENTS,C0012634,Disease,136
+83,C0172537,Gelatinase A,PREVENTS,C0175677,Injury,6
+84,C0010467,Curcumin,PREVENTS,C0027651,Neoplasm,11
+85,C1515075,Supplementation,PREVENTS,C0856169,Endothelial dysfunction,20
+86,C0028833,Octreotide,PREVENTS,C0020615,hypoglycemia,12
+87,C0087111,Therapeutic procedure,PREVENTS,C0019693,HIV Infections,124
+88,C0687732,Prevention,PREVENTS,C0006826,Malignant Neoplasms,44
+89,C0003968,Ascorbic Acid,PREVENTS,C0012860,DNA Damage,31
+90,C0015259,Exercise,PREVENTS,C0008679,Chronic Disease,85
+91,C0000981,Acetazolamide,PREVENTS,C0238284,Acute mountain sickness,72
+92,C0010592,Cyclosporine,PREVENTS,C0242606,Oxidative Stress,8
+93,C0969677,alpha Tocopherol,PREVENTS,C0035126,Reperfusion Injury,6
+94,C0243192,agonists,PREVENTS,C0027746,Nerve Degeneration,15
+95,C0010467,Curcumin,PREVENTS,C0006826,Malignant Neoplasms,20
+96,C0687732,Prevention,PREVENTS,C0012860,DNA Damage,8
+97,C0039286,Tamoxifen,PREVENTS,C0029456,Osteoporosis,12
+98,C0007974,Chelating Agents,PREVENTS,C0012860,DNA Damage,8
+99,C0150544,Diabetic care,PREVENTS,C0009566,Complication,52
+100,C0600015,Emotional support,PREVENTS,C0009566,Complication,6
+101,C0013216,Pharmacotherapy,PREVENTS,C1155266,Inflammatory Response,7
+102,C0376466,Ischemic Preconditioning,PREVENTS,C0277785,Functional disorder,11
+103,C0042866,Vitamin D,PREVENTS,C0007102,Malignant tumor of colon,13
+104,C0042866,Vitamin D,PREVENTS,C0004364,Autoimmune Diseases,16
+105,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",PREVENTS,C0002395,Alzheimer's Disease,110
+106,C1448177|7124,"TNF protein human|TNF",PREVENTS,C0151763,Liver damage,7
+107,C0087111,Therapeutic procedure,PREVENTS,C0004368,Autoimmunity,20
+108,C0242883,Needle-Exchange Programs,PREVENTS,C0019693,HIV Infections,8
+109,C0087111,Therapeutic procedure,PREVENTS,C0020538,Hypertensive disease,716
+110,C1511790,Detection,PREVENTS,C0020538,Hypertensive disease,388
+111,C0204732,Suicide prevention,PREVENTS,C0038661,Suicide,34
+112,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",PREVENTS,C0027651,Neoplasm,16
+113,C0038317,Steroids,PREVENTS,C0013604,Edema,27
+114,C0005976,Bone Transplantation,PREVENTS,C0016658,Fracture,15
+115,C0004057,Aspirin,PREVENTS,C0032584,polyps,8
+116,C0038792,Sulindac,PREVENTS,C0032584,polyps,6
+117,C0538927,celecoxib,PREVENTS,C1527249,Colorectal Cancer,6
+118,C0032042,Placebos,PREVENTS,C0021400,Influenza,11
+119,C0874161,Oseltamivir,PREVENTS,C0021400,Influenza,43
+120,C0874161,Oseltamivir,PREVENTS,C0009566,Complication,17
+121,C0443640,Specific antibody,PREVENTS,C0012634,Disease,19
+122,C0003250,Monoclonal Antibodies,PREVENTS,C1155266,Inflammatory Response,8
+123,C0087111,Therapeutic procedure,PREVENTS,C0018801,Heart failure,201
+124,C0025219,Melatonin,PREVENTS,C0149931,Migraine Disorders,8
+125,C0220908,Screening procedure,PREVENTS,C0007222,Cardiovascular Diseases,30
+126,C0026606,Physical activity,PREVENTS,C0021655,Insulin Resistance,32
+127,C0038039,Sports,PREVENTS,C0028754,Obesity,19

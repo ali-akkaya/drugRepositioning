@@ -36,5 +36,5 @@ class Utils:
         "Bulimia",
         "Mania",
         "Paranoid Disorde",
-        "Agitawted State",
+        "Agitated State",
     ]
